@@ -14,5 +14,37 @@ Add your timetable
 Execute the program
 
 # CODE
-
+<TABLE BORDER="3" width="750" bgcolor="cyan" cellspacing="10" cellpadding="10"> 
+<TR> 
+	<TH colspan="8" align="center" bgcolor="DARK BLUE">TIME TABLE</TH>
+</TR>   
+<TR> 
+      <TH colspan="2" align="left" bgcolor="YELLOW">REFERENCE NUMBER</TH>
+      <TH colspan="2" align="center" bgcolor="ORANGE">22001908</TH>
+      <TH colspan="2" align="right" bgcolor="LIGHT green">NAME</TH>
+      <TH colspan="2" align="right" bgcolor="pink">BEJIN</TH>
+</TR>
+<TR>
+	<TD width="25%">DAYS</TD> 
+	<TD width="25%">1</TD>
+	<TD width="25%">2</TD>
+      <TD width="25%">3</TD>
+      <TD width="25%">4</TD>
+      <TD width="25%">lunch break</TD>
+      <TD width="25%">5</TD>
+      <TD width="25%">6</TD>
+</TR>
+<TR>
+      <TD width="25%">MONDAY</TD>
+      <TD width="25%">19AI414/KARTHIK</TD>
+      <TD width="25%">ENGLISH</TD>
+      <TD width="25%">WEB</TD>
+      <TD width="25%">STATIC</TD>
+      <TD width="25%">      </TD>
+      <TD width="25%">-</TD>
+      <TD width="25%">MATHS</TD>
+ </TR>
+</TABLE>
 # OUPUT
+![Screenshot_20230109_093812](https://user-images.githubusercontent.com/118367518/211239944-c407ba80-1614-48ca-ac17-b9d02b4bf18f.png)
+
