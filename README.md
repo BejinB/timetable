@@ -48,5 +48,5 @@ Execute the program
 ```
 </TABLE>
 # OUPUT
-![Screenshot_20230109_093812](https://user-images.githubusercontent.com/118367518/211239944-c407ba80-1614-48ca-ac17-b9d02b4bf18f.png)
+![image](https://user-images.githubusercontent.com/118367518/211240077-bf23fe1e-de3e-464b-b763-3c2f7591e7c6.png)
 
