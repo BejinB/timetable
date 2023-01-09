@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <TABLE BORDER="3" width="750" bgcolor="cyan" cellspacing="10" cellpadding="10"> 
 <TR> 
 	<TH colspan="8" align="center" bgcolor="DARK BLUE">TIME TABLE</TH>
@@ -44,6 +45,7 @@ Execute the program
       <TD width="25%">-</TD>
       <TD width="25%">MATHS</TD>
  </TR>
+```
 </TABLE>
 # OUPUT
 ![Screenshot_20230109_093812](https://user-images.githubusercontent.com/118367518/211239944-c407ba80-1614-48ca-ac17-b9d02b4bf18f.png)
